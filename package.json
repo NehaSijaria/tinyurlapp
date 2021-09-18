@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/NehaSijaria/tinyurlapp/issues"
   },
-  "homepage": "https://github.com/NehaSijaria/tinyurlapp#readme"
+  "homepage": "https://github.com/NehaSijaria/tinyurlapp#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
